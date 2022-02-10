@@ -1,3 +1,4 @@
+-- 6akan#8007 PEOPLE SAY IM A SKID SO U ARE TOO DUMB ASS NIGGA --
 game.StarterGui:SetCore("SendNotification", {
     Title = "VXMP SHIT";
     Text = "VXMP FAN OF 6AKAN GITHUB";
